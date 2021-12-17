@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/joelcampbell0963/Project0/_apis/build/status/slobberpaws.pipelines-java?branchName=master)](https://dev.azure.com/joelcampbell0963/Project0/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
